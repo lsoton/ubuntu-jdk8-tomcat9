@@ -1,7 +1,6 @@
-# ubuntu-jdk8-tomcat9
-# docker build -t lsoton/ubuntu-jdk8-tomcat9 .
+# Configuracion tomcat 9 com Oracle JDK 8, con ubuntu 16.04.
 
-Configuracion tomcat 9 com Oracle JDK 8, con ubuntu 16.04.
+# docker build -t lsoton/ubuntu-jdk8-tomcat9 .
 
 Para configurar utilizar el comando DockerCompose.yml.
 
